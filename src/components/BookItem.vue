@@ -4,7 +4,7 @@
 
 <script>
     export default {
-        name:'BookITem',
+        name:'BookItem',
         props: ['book']
     }
 </script>
